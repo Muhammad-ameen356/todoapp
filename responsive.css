@@ -1,0 +1,15 @@
+@media only screen and (max-width:600px) {
+    .list .text {
+        width: 70px !important;
+        height: 30px !important;
+    }
+    img {
+        width: 170px;
+    }
+    .list {
+        font-size: 18px !important;
+    }
+    input {
+        width: 150px !important;
+    }
+}
